@@ -1,0 +1,25 @@
+{
+  "name": "kedaya-demo",
+  "version": "1.0.0",
+  "description": "1212",
+ 
+  "main": "index.js",
+  "scripts": {
+	"preinstall":"start /B node complie.js & node complie.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },ll
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PairyLyn/npm-demo.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "kedaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PairyLyn/npm-demo/issues"
+  },
+  "homepage": "https://github.com/PairyLyn/npm-demo#readme"
+}
